@@ -1,5 +1,5 @@
 package ketupat;
-
+//update
 import java.util.Scanner;
 
 public class Ketupat {
